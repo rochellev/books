@@ -24,3 +24,10 @@ book-app/
   public/
   README.md
 
+make component directory-- where you will keep all compoent s
+make card component folder. 
+simple function that returns a div
+material ui
+
+## Packages in tutorial/ open source things we are going to use
+material ui
