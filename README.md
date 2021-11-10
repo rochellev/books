@@ -2,6 +2,26 @@
 
 This project is for programmers who have completed an intro to React tutorial. The goal of this project is to explain how to make HTTP requests and consume the data.
 
+Note: This project is in development. I'll be updating and possibly breaking the project, so beware!
+
+## Component Design
+
+This section explains the component hierarchy of the `Card` component. Check out this ["Thinking In React"](https://reactjs.org/docs/thinking-in-react.html) section to learn how to break down app components.
+
+### The `Card` Component
+
+Containers for each function.
+
+ <div align="center">
+   <img src="pics/BookTileDiagram1.png" alt="book tile component design" width="90%"/>
+    </div>
+    <br>
+
+TK in this section:
+
+- Description of Card hierarchy
+- Description of each component function-- the why too
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
